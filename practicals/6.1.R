@@ -3,13 +3,13 @@
 list_data <- list()
 
 # Add elements to the list
-# "Red" is a string
+# "shivam" is a string
 list_data[[1]] <- "shivam"
 
-# "Green" is a string
+# "pankaj" is a string
 list_data[[2]] <- "pankaj"
 
-# c(21,32,11) is a vector of numbers
+# c(048,31,06) is a vector of numbers
 list_data[[3]] <- c(048,31,06)
 
 # TRUE is a logical value
